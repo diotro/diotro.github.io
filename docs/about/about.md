@@ -1,3 +1,6 @@
+  ---
+  layout: post
+  ---
   # ABOUT US
   
   ⚔ = swordy
